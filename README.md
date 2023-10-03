@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Md Ikhtiar Uddin Shakib</h1>
 <h3 align="center">A Entry-level Backend developer</h3>
 
-<img align="right" alt ="coding" width="400" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-13839287635814292878&psig=AOvVaw1XCU1z_gIK1B1yfCfgrVNU&ust=1695316934820000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPi8w-_ZuYEDFQAAAAAdAAAAABAE">
+<img align="right" alt ="coding" width="400" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&usqp=CAU">
 
 - 👯 I’m looking to collaborate on **OpenSource Project**
 
