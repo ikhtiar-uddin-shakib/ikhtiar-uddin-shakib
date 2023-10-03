@@ -1,4 +1,4 @@
-[logo] (https://github.com/ikhtiar-uddin-shakib/ikhtiar-uddin-shakib/blob/main/Md%20Ikhtiar%20Uddin%20shakib(2).png)
+![logo](https://github.com/ikhtiar-uddin-shakib/ikhtiar-uddin-shakib/blob/main/Md%20Ikhtiar%20Uddin%20shakib(2).png)
 <h1 align="center">Hi 👋, I'm Md Ikhtiar Uddin Shakib</h1>
 <h3 align="center">A Entry-level Backend developer</h3>
 
