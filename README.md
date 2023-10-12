@@ -6,7 +6,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikhtiar-uddin-shakib" alt="ikhtiar-uddin-shakib" /></a> </p>
 <img align="right" alt ="coding" width="400" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&usqp=CAU">
+
+- 🕵️‍♂️I’m currently working on **Online Voting System**
+
+- I am currently Learning **Javascripts and React**
+
 - 👯 I’m looking to collaborate on **OpenSource Project**
+
+- 💬 Ask me about **Django**
 
 - 📫 How to reach me **ikhtiarshakib52@gmail.com**
 
