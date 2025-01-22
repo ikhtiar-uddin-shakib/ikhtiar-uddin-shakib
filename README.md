@@ -1,6 +1,6 @@
 ![logo](https://raw.githubusercontent.com/ikhtiar-uddin-shakib/ikhtiar-uddin-shakib/main/Md%20Ikhtiar%20Uddin%20shakib(2).png)
 <h1 align="center">Hi 👋, I'm Md Ikhtiar Uddin Shakib</h1>
-<h3 align="center">A Entry-level Backend developer</h3>
+<h3 align="center">A Entry-level Frontend developer. Good In Backend ALSO</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikhtiar-uddin-shakib&label=Profile%20views&color=0e75b6&style=flat" alt="ikhtiar-uddin-shakib" /> </p>
 
